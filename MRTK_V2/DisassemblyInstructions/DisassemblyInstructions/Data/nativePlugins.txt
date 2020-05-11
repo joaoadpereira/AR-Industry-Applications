@@ -1,0 +1,2 @@
+VuforiaWrapper.dll
+Vuforia.dll
