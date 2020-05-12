@@ -12,13 +12,13 @@ Unity project with several scenes developed for Microsoft HoloLens. it aims to s
 
 
 ## Table of contents:
-- [Display CAD models](#display-cad-models)
+- [Display CAD models from technical drawings](#display-cad-models-from-technical-drawings)
 - [Review product design](#review-product-design)
 - [Teach](#teach)
 
 
 
-### Display CAD models 
+### Display CAD models from technical drawings
 
 <p align="center">
 <img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_drawings.png" height="250"> 
