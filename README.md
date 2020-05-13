@@ -35,7 +35,7 @@ The models were built in with [SpaceClaim](http://www.spaceclaim.com/en/default.
 
 
 <p align="center">
-<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_drawings.png" height="250"> 
+<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_drawings.png" alt="View of the Unity scene: CAD models on top of their targets (technical drawings)" title="View of the Unity scene: CAD models on top of their targets (technical drawings)" height="250"> 
 </p>
 
 
@@ -52,14 +52,22 @@ When developing a new product, design variants requires to be discussed with dif
 
 On this app, it is reviewed 3 different CAD solutions of snowplough (figures below) to attach to a Harvester machine. The user interface was set up with [Unity](https://unity.com/), [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) and deployed to [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens).
 
+
+<p align="center">
+<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design1_CAD.PNG" alt="Design 1" title="Design 1" height="150"></a> 
+<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design2_CAD.PNG" alt="Design 2" title="Design 2" height="150"></a> 
+<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design3_CAD.PNG" alt="Design 3" title="Design 3" height="150"></a> 
+</p>
+
+
+
+
+
+
+
 You can watch the results through [this video](https://www.youtube.com/watch?v=YlznWJ-maCg). This app shows how prototype review may be achieved with Augmented Reality, visualizing the different virtual model solutions and allowing their dynamic simulation, detailed information, exploded view and background context (model attached to the Harvester).
 
 
-<p align="center">
-<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design1_CAD.PNG" height="150"></a> 
-<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design2_CAD.PNG" height="150"></a> 
-<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/design3_CAD.PNG" height="150"></a> 
-</p>
 
 
 
@@ -67,12 +75,16 @@ You can watch the results through [this video](https://www.youtube.com/watch?v=Y
 
 Share knowledge and the know-how is an essential process inside industry to complete or solve hard tasks. Augmented Reality, through the disposal of digital holograms in the real world may assist users on their daily operations.
 
-This Microsoft HoloLens app helps the user to disassemble the product and achieve the electronic components for possible maintenance, providing a step-by-step tutorial.  The app was designed up with [Unity](https://unity.com/), [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity), [Vuforia](https://www.ptc.com/en/products/augmented-reality/vuforia?cl1=AR_Vuforia_General_Google_CLC-cpc-ARBrandedxxxVuforiaUKNordics-38010&cmsrc=Google&cid=7015A000001oRiBQAU&elqCampaignId=13184&gclid=EAIaIQobChMIotbGw6aw6QIVxbUYCh03BgbdEAAYASAAEgJ7GvD_BwE) (figure bellow) and deployed to [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens). You can watch the results in [this video](https://www.youtube.com/watch?v=Fo-iKZj7R5I).
+This Microsoft HoloLens app helps the user to disassemble the product and achieve the electronic components for possible maintenance, providing a step-by-step tutorial.  The app was designed up with [Unity](https://unity.com/), [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity), [Vuforia](https://www.ptc.com/en/products/augmented-reality/vuforia?cl1=AR_Vuforia_General_Google_CLC-cpc-ARBrandedxxxVuforiaUKNordics-38010&cmsrc=Google&cid=7015A000001oRiBQAU&elqCampaignId=13184&gclid=EAIaIQobChMIotbGw6aw6QIVxbUYCh03BgbdEAAYASAAEgJ7GvD_BwE) (figure bellow) and deployed to [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens). 
+
+
 
 <p align="center">
-<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_instructions.PNG" height="250"> 
+<img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_instructions.PNG" alt="Unity scene of instruction Holograms" title="Unity scene of instruction Holograms" height="250"> 
 </p>
 
+
+You can watch the results in [this video](https://www.youtube.com/watch?v=Fo-iKZj7R5I).
 
 
 
