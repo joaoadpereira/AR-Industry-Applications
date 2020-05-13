@@ -32,11 +32,16 @@ This HoloLens app shows the CAD models associated with 2 technical drawings that
 
 The models were built in with [SpaceClaim](http://www.spaceclaim.com/en/default.aspx). The project was set up with [Unity](https://unity.com/), [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) and [Vuforia](https://www.ptc.com/en/products/augmented-reality/vuforia?cl1=AR_Vuforia_General_Google_CLC-cpc-ARBrandedxxxVuforiaUKNordics-38010&cmsrc=Google&cid=7015A000001oRiBQAU&elqCampaignId=13184&gclid=EAIaIQobChMIotbGw6aw6QIVxbUYCh03BgbdEAAYASAAEgJ7GvD_BwE) (figure bellow) and deployed to [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens).  
 
-You can watch the results through [this video](https://youtu.be/NJM80PS2epg). Technical drawings may achieve complex levels in engineering but Augmented Reality technology has the power to simplify them.   
+
 
 <p align="center">
 <img src="https://github.com/joaoadpereira/AR-Industry-Applications/blob/master/images/Unity_drawings.png" height="250"> 
 </p>
+
+
+You can watch the results through [this video](https://youtu.be/NJM80PS2epg). Technical drawings may achieve complex levels in engineering but Augmented Reality technology has the power to simplify them.   
+
+
 
 
  
